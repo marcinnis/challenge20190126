@@ -17,6 +17,8 @@ Using one command it will build 2 containers:
 
 Application - due to security reasons - is running as *app* user with limited privileges (created during deployment process).
 
+Of course this is very simple deployment. In production it would be different - taking care of reliability, security and high availability.
+
 ## 2. EXECUTION
 
 #### CONFIGURATION
